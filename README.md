@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <title>Online HTML Editor</title>
-
 <head>
     <style>
         body {
